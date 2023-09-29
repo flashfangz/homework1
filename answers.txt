@@ -1,0 +1,1 @@
+A merge combines the changes from one branch into another, creating a new commit that has two parent commits. A rebase moves or reapplies the changes from one branch onto another branch's tip.
