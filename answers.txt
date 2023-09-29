@@ -1,1 +1,1 @@
- remote repository in Git is a repository that exists on a separate server or location from your local repository.
+A remote repository in Git is a repository that exists on a separate server or location from your local repository.
