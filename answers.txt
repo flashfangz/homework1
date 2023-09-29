@@ -1,1 +1,1 @@
- remote repository in Git is a repository that exists on a separate server or location from your local repository.
+A merge combines the changes from one branch into another, creating a new commit that has two parent commits. A rebase, on the other hand, moves or reapplies the changes from one branch onto another branch's tip.
